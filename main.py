@@ -16,3 +16,12 @@ def subtract(a: int,b:int):
 
 print(subtract(10,2))
 
+def divide(a:int,b:int):
+    return a / b
+
+print(divide(10,5))
+
+def subtract(a: int,b:int):
+    return a - b
+
+print(subtract(10,2))
