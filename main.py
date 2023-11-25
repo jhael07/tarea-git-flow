@@ -1,3 +1,9 @@
+
+def divide(a:int,b:int):
+    return a / b
+
+print(divide(10,5))
+
 def multiply(a:int,b:int):
     return a * b
 
@@ -15,4 +21,5 @@ def subtract(a: int,b:int):
     return a - b
 
 print(subtract(10,2))
+
 
