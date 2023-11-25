@@ -1,4 +1,4 @@
-def divide(a: int,b:int):
-    return a / b
+def subtract(a: int,b:int):
+    return a - b
 
-print(divide(10,2))
+print(subtract(10,2))
