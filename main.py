@@ -3,3 +3,4 @@ def sum(a:int,b:int):
 
 
 print(sum(1,4))
+print(sum(2,4))
